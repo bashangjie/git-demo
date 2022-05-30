@@ -1,3 +1,6 @@
 hello Alex! hello git!
 hello Alex! hello git!2222233333
 Fucking Java! Fucking Go! shit java
+Fucking Java! Fucking Go!
+hot-fix test
+succeed
